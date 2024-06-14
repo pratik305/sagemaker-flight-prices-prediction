@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+wordcloud
+scipy
+scikit-learn
+matplotlib
+statsmodels
+ydata-profiling
+feature_engine
+xgboost  
+streamlit
+joblib
